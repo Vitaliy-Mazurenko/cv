@@ -1,3 +1,3 @@
-# rsschool-cv
+# cv
 
 <https://vitaliy-mazurenko.github.io/cv/>
